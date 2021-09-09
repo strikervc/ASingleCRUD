@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCRUD", "WebCRUD\WebCRUD.csproj", "{31B424A5-EB79-4007-BA50-EE12DA86F0EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B424A5-EB79-4007-BA50-EE12DA86F0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B424A5-EB79-4007-BA50-EE12DA86F0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B424A5-EB79-4007-BA50-EE12DA86F0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B424A5-EB79-4007-BA50-EE12DA86F0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD972F5-82C7-43A9-8916-FDEC0C84163B}
+	EndGlobalSection
+EndGlobal
